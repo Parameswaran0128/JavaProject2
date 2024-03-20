@@ -1,0 +1,25 @@
+{
+	"LeaveDetail":[
+		{
+			"LeaveID" : "LID361",
+            "EmpID":"Mic521",
+            "TypeOfLeave":"CL",
+            "FromDate" : "2024-03-14",
+             "ToDate" :  "2024-03-16"
+		},
+        {
+            "LeaveID": "LID365",
+            "EmpID": "Mic790",
+            "TypeOfLeave": "CL",
+            "FromDate": "2024-03-29",
+              "ToDate": "2024-03-31"
+        },
+        {
+            "LeaveID": "LID366",
+            "EmpID": "Goo457",
+            "TypeOfLeave": "LOP",
+            "FromDate": "2024-04-02",
+            "ToDate": "2024-04-04"
+          }
+	]
+}

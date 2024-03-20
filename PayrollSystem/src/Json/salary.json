@@ -1,0 +1,60 @@
+{
+    "SalaryDetails": [
+      {
+        "EmployeeID": "Mic521",
+        "BasicPay": 50000,
+        "HRA": 15000,
+        "Conveyance": 2000,
+        "ProvidentFund": 5000,
+        "ESI": 1500,
+        "Loan": 2000,
+        "ProfessionTax": 200,
+        "TSD_IT": 3000
+      },
+      {
+        "EmployeeID": "Mic790",
+        "BasicPay": 60000,
+        "HRA": 18000,
+        "Conveyance": 2500,
+        "ProvidentFund": 6000,
+        "ESI": 1800,
+        "Loan": 2500,
+        "ProfessionTax": 250,
+        "TSD_IT": 3500
+      },
+      {
+        "EmployeeID": "Goo457",
+        "BasicPay": 55000,
+        "HRA": 16000,
+        "Conveyance": 2200,
+        "ProvidentFund": 5500,
+        "ESI": 1600,
+        "Loan": 2200,
+        "ProfessionTax": 220,
+        "TSD_IT": 3200
+      },
+      {
+        "EmployeeID": "Sol123",
+        "BasicPay": 70000,
+        "HRA": 20000,
+        "Conveyance": 3000,
+        "ProvidentFund": 7000,
+        "ESI": 2000,
+        "Loan": 3000,
+        "ProfessionTax": 300,
+        "TSD_IT": 4000
+      },
+      {
+        "EmployeeID": "Sol124",
+        "BasicPay": 65000,
+        "HRA": 19000,
+        "Conveyance": 2800,
+        "ProvidentFund": 6500,
+        "ESI": 1900,
+        "Loan": 2800,
+        "ProfessionTax": 280,
+        "TSD_IT": 3800
+      }
+    ]
+  }
+  

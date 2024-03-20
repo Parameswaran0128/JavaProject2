@@ -1,0 +1,129 @@
+{
+  "SalaryDetails": [
+    {
+      "Designation": "Junior",
+      "Department": "QA",
+      "BasicPay": 30000.00
+    },
+    {
+      "Designation": "Junior",
+      "Department": "DevOps",
+      "BasicPay": 31000.00
+    },
+    {
+      "Designation": "Junior",
+      "Department": "Release",
+      "BasicPay": 32000.00
+    },
+    {
+      "Designation": "Junior",
+      "Department": "Dev",
+      "BasicPay": 33000.00
+    },
+    {
+      "Designation": "Junior",
+      "Department": "BA",
+      "BasicPay": 34000.00
+    },
+    {
+      "Designation": "Senior",
+      "Department": "QA",
+      "BasicPay": 40000.00
+    },
+    {
+      "Designation": "Senior",
+      "Department": "DevOps",
+      "BasicPay": 41000.00
+    },
+    {
+      "Designation": "Senior",
+      "Department": "Release",
+      "BasicPay": 42000.00
+    },
+    {
+      "Designation": "Senior",
+      "Department": "Dev",
+      "BasicPay": 43000.00
+    },
+    {
+      "Designation": "Senior",
+      "Department": "BA",
+      "BasicPay": 44000.00
+    },
+    {
+      "Designation": "Architect",
+      "Department": "QA",
+      "BasicPay": 55000.00
+    },
+    {
+      "Designation": "Architect",
+      "Department": "DevOps",
+      "BasicPay": 56000.00
+    },
+    {
+      "Designation": "Architect",
+      "Department": "Release",
+      "BasicPay": 57000.00
+    },
+    {
+      "Designation": "Architect",
+      "Department": "Dev",
+      "BasicPay": 58000.00
+    },
+    {
+      "Designation": "Architect",
+      "Department": "BA",
+      "BasicPay": 59000.00
+    },
+    {
+      "Designation": "TeamLeader",
+      "Department": "QA",
+      "BasicPay": 48000.00
+    },
+    {
+      "Designation": "TeamLeader",
+      "Department": "DevOps",
+      "BasicPay": 49000.00
+    },
+    {
+      "Designation": "TeamLeader",
+      "Department": "Release",
+      "BasicPay": 50000.00
+    },
+    {
+      "Designation": "TeamLeader",
+      "Department": "Dev",
+      "BasicPay": 51000.00
+    },
+    {
+      "Designation": "TeamLeader",
+      "Department": "BA",
+      "BasicPay": 52000.00
+    },
+    {
+      "Designation": "Project Manager",
+      "Department": "QA",
+      "BasicPay": 60000.00
+    },
+    {
+      "Designation": "Project Manager",
+      "Department": "DevOps",
+      "BasicPay": 61000.00
+    },
+    {
+      "Designation": "Project Manager",
+      "Department": "Release",
+      "BasicPay": 62000.00
+    },
+    {
+      "Designation": "Project Manager",
+      "Department": "Dev",
+      "BasicPay": 63000.00
+    },
+    {
+      "Designation": "Project Manager",
+      "Department": "BA",
+      "BasicPay": 64000.00
+    }
+  ]
+}

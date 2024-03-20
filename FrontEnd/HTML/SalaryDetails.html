@@ -1,0 +1,49 @@
+<!DOCTYPE html>
+<html lang="en">
+<head>
+    <meta charset="UTF-8">
+    <meta name="viewport" content="width=device-width, initial-scale=1.0">
+    <title>Document</title>
+    <script src="../js/salarydetails.js"></script>
+    <script src="../js/admin.js"></script>
+</head>
+<body>
+    <div class="fulldiv">
+        <div class="formdiv">
+            <form action="">
+                Employee ID:<input type="text" id="employeeId" name="employeeId"><br>
+                Month <input type="number" id="month" name="month" min="1" max="12"><br>
+                Year <input type="number" id="year" name="year"><br>
+                <button type="button" onclick="SalaryCalculation()">Calculate</button>
+                <button type="button" onclick="CreateRedirect()">Back</button>
+                <p id="NetSalary"></p>
+            </form>
+        </div>
+        <div class="result">
+            <h2>Salary Calculation Result</h2>
+            <table border="1">
+                <thead>
+                    <tr>
+                        <th>Employee ID</th>
+                        <th>Month</th>
+                        <th>Year</th>
+                        <th>HRA</th>
+                        <th>Conveyance</th>
+                        <th>PF</th>
+                        <th>ESI</th>
+                        <th>Profession Tax</th>
+                        <th>TSDIT</th>
+                        <th>Total Earning</th>
+                        <th>Total Deduction</th>
+                        <th>Net Salary</th>
+                    </tr>
+                </thead>
+                <tbody id="salaryDetails">
+                    <!-- Salary calculation details will be displayed here -->
+                </tbody>
+            </table>
+        </div>
+    
+    </div>
+</body>
+</html>

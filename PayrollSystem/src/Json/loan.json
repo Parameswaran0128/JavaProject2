@@ -1,0 +1,26 @@
+{
+	"LoanDetails" :
+	[
+  {
+    "loanID": "LID123",
+    "EmpID": "Sol123",
+    "loanAmount": 500000.00,
+    "interest": 0.07,
+    "loanDate": "2024-03-15"
+  },
+  {
+    "loanID": "LID124",
+    "EmpID": "Mic789",
+    "loanAmount": 300000.00,
+    "interest": 0.06,
+    "loanDate": "2024-03-15"
+  },
+  {
+    "loanID": "LID125",
+    "EmpID": "Goo456",
+    "loanAmount": 600000.00,
+    "interest":0.05,
+    "loanDate": "2024-03-15"
+  }
+]
+}

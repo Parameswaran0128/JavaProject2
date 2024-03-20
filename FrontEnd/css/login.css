@@ -1,0 +1,147 @@
+*{
+    padding: 0;
+    margin: 0;
+    box-sizing: border-box;
+    font-family: 'Poppins',sans-serif;
+}
+
+body{
+    display: flex;
+    min-height: 100vh;
+    padding: 0;
+    margin: 0;
+    background-color: grey;
+}
+
+.seconddiv{
+    display: flex;
+    position: absolute;
+    height: 100%;
+    width: 100%;
+    background-color: rgb(253, 252, 252);
+}
+
+.home{
+    display: flex;
+    flex-direction: column;
+    align-items: center;
+    justify-content: center;
+    height: 450px;
+    border-style: solid;
+    border-radius: 20px 0px;
+    width: 600px;
+    position: absolute;
+    top: 180px;
+    left: 480px;
+    color: rgb(179, 176, 174);
+    box-shadow: 10px 10px 15px rgba(0, 0, 0, 0.3);
+    padding: 20px 40px;
+    box-sizing: border-box;
+}
+.h1div{
+    height: 150px;
+    width: 99vw;
+    margin: 0px 8px 0px 8px;
+    font-size: 45px;
+    display: flex;
+    position: absolute;
+    color: whitesmoke;  
+    justify-content: center;
+    align-content: center;
+    background-color: rgb(72, 134, 221);
+    z-index: 1;
+}
+.loginhead{
+    display: flex;
+    position: relative;
+    top: -140px;
+    font-size: 40px;
+    font-style: italic;
+}
+.formdiv{
+    display: flex;
+    position: absolute;
+    top: 140px;
+
+}
+
+input[type="text"],
+input[type="password"]{
+    height: 45px;
+    width: 30vw;
+    position: relative;
+    margin: 8px 5px 10px;
+    padding: 5px 5px 10px 5px;
+    border-radius: 8px;
+    border: rgb(179, 176, 174) ;
+    box-shadow: 10px 10px 15px rgba(0, 0, 0, 0.3);
+}
+
+input .namediv{
+    display: flex;
+    position: absolute;
+    top: 20px;
+}
+
+.icon-div{
+    height: 45px;
+    width: 40px;
+    display: flex;
+    position: absolute;
+    justify-content: center;
+    align-items: center;
+    bottom: 180px;
+    left: -35px;
+    border-radius: 5px 0px;
+    background-color:rgb(72, 134, 221) ;
+    color: whitesmoke;
+}
+
+.icon-divlock{
+    height: 45px;
+    width: 40px;
+    display: flex;
+    position: absolute;
+    justify-content: center;
+    align-items: center;
+    bottom: 115px;
+    left: -35px;
+    border-radius: 5px 0px;
+    background-color:rgb(72, 134, 221) ;
+    color: whitesmoke;
+}
+
+button{
+    height: 45px;
+    width: 30vw;
+    font-size: 20px;
+    margin-top: 25px;
+    border-radius: 10px;
+    font-weight: 60px;
+    border-color: whitesmoke;
+    background-color:rgb(72, 134, 221) ;
+    color: whitesmoke;
+    box-shadow: 10px 10px 15px rgba(0, 0, 0, 0.3);
+}
+
+.RadioDiv {
+    display: flex;
+    align-items: center;
+    justify-content: center;
+    margin-top: 10px;
+    font-weight: 80px;
+    color: rgb(179, 176, 174);
+}
+
+.RadioDiv input[type="radio"] {
+    margin: 0 5px;
+}
+
+.errorMessage{
+    margin-top: 20px;
+    position: absolute;
+    align-items: center;
+    justify-content: center;
+    color: skyblue;
+}
+

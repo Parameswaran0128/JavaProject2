@@ -1,0 +1,39 @@
+<!DOCTYPE html>
+<html lang="en">
+<head>
+    <meta charset="UTF-8">
+    <meta name="viewport" content="width=device-width, initial-scale=1.0">
+    <title>Add Night Shift Details</title>
+    <script src="../js/nytshiftdetail.js"></script>
+    <script src="../js/admin.js"></script>
+</head>
+<body>
+    <div class="fulldiv">
+        <div class="formdiv">
+            <h2>Add Night Shift Details</h2>
+            <form id="nytShiftForm">
+                Employee ID: <input type="text" id="empId" name="empId"><br>
+                Night Shift Date: <input type="date" id="nytShiftDate" name="nytShiftDate"><br>
+                Night Shift Amount: <input type="number" id="nytShiftAmt" name="nytShiftAmt"><br>
+                <button type="button" onclick="addNytShift()">Add Night Shift</button>
+            </form>
+        </div>
+    </div>
+
+    <div class="result">
+        <table id="nytShiftDetail" border="1">
+            <thead>
+                <tr>
+                    <th>Night Shift ID</th>
+                    <th>Employee ID</th>
+                    <th>Night Shift Date</th>
+                    <th>Night Shift Amount</th>
+                </tr>
+            </thead>
+            <tbody id="nytShiftDetails">
+                
+            </tbody>
+        </table>
+    </div>
+</body>
+</html>

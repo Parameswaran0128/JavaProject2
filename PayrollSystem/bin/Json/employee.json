@@ -1,0 +1,46 @@
+ {
+  "Employees": [
+    {
+      "EmployeeID": "Sol123",
+      "EmployeeName": "John Smith",
+      "Designation": "Senior",
+      "Department": "QA",
+      "CompanyID": 1
+    },
+    {
+      "EmployeeID": "Mic789",
+      "EmployeeName": "Alice Johnson",
+      "Designation": "Junior",
+      "Department": "DEV",
+      "CompanyID": 2
+    },
+    {
+      "EmployeeID": "Goo456",
+      "EmployeeName": "David Brown",
+      "Designation": "Architect",
+      "Department": "Release",
+      "CompanyID": 3
+    },
+    {
+      "EmployeeID": "Sol124",
+      "EmployeeName": "Emily Davis",
+      "Designation": "TeamLeader",
+      "Department": "QA",
+      "CompanyID": 1
+    },
+    {
+      "EmployeeID": "Mic790",
+      "EmployeeName": "Chris Anderson",
+      "Designation": "Senior",
+      "Department": "DEV",
+      "CompanyID": 2
+    },
+    {
+      "EmployeeID": "Goo457",
+      "EmployeeName": "Sophia Wilson",
+      "Designation": "Junior",
+      "Department": "Release",
+      "CompanyID": 3
+    }
+  ]
+  }

@@ -1,0 +1,16 @@
+{
+  "Company": [
+    {
+      "CompanyName": "Solartis",
+      "CompanyID": 1
+    },
+    {
+      "CompanyName": "Microsoft",
+      "CompanyID": 2
+    },
+    {
+      "CompanyName": "Google",
+      "CompanyID": 3
+    }
+  ]
+}

@@ -1,0 +1,161 @@
+#body {
+    border-top:none;
+    border-bottom:none;
+    border-left-width:1px;
+    border-right-width:1px;
+    border-left-style:outset;
+    border-right-style:groove;
+    border-left-color:#000;
+    border-right-color:#000;
+    min-height:400px;
+}
+
+#map {
+        height: 300px;
+        width: 100%;
+       }
+
+#contactmap{
+    width:100%;
+    height:auto;
+    min-height:300px;
+}
+
+
+.date {
+    margin-left:30px;
+    padding:10px;
+    line-height:30px;  
+    font-size:16px; 
+}
+
+
+.fixed {
+    position: fixed;z-index:1;
+    top:auto;
+    width:100%;
+}
+
+.att {
+    padding:5px;
+}
+
+
+
+body {
+    background-color:rgba(50,50,50,0.6);
+}
+
+
+
+.view {
+    margin-left:10px;
+    padding:10px;
+   
+}
+
+.author_table {
+    margin:10px;
+    padding:10px;
+}
+
+
+
+.blink {
+  animation: blink-animation 2s steps(5, start) infinite;
+  -webkit-animation: blink-animation 2s steps(5, start) infinite;
+color:red;
+}
+@keyframes blink-animation {
+  to {
+    color:green;
+    visibility: hidden;
+  }
+}
+@-webkit-keyframes blink-animation {
+  to {
+color:green;
+    visibility: hidden;
+  }
+}
+
+
+
+.profile {
+  display: inline-block;
+  width: 30px;
+  height: 30px;
+  text-align:left;
+
+  border-radius: 50%;
+  background-repeat: no-repeat;
+  background-position: center center;
+  background-size: cover;
+  
+  margin-top:5px;
+  border-right: 1px solid rgba(255, 255, 255, 0.1);
+  color: white;
+    text-transform: uppercase;
+    font: bold 12px Arial, Helvetica;
+    text-decoration: none;
+    text-shadow: 0 1px 0 #000;
+   vertical-align:middle;
+   
+}
+
+
+.detailsviewheader {
+    
+    font-size:large;
+    
+    color:rgba(50,50,50,1);
+    font-weight:bolder;    
+    vertical-align:middle;
+    
+}
+
+.detailsviewdata {
+    font-size: medium;
+    color: #656565;
+    vertical-align: middle;
+    font-weight: bold;
+    text-wrap: normal;
+}
+
+.padding-5 {
+    padding:5px;
+}
+
+/*Vision Mission*/
+.circle {
+    display: block;
+    text-align: center;
+    vertical-align: middle;
+    background-color: #1586c3;
+    border-radius: 30%;
+    display: inline-block;
+    padding: 20px;
+    color: white;
+    min-height:170px;
+}
+
+.visionbody {
+    display: block;
+    text-transform: uppercase;
+    font-weight: 900;
+    padding-bottom: 15px;
+}
+
+.circle img {
+    height: 80px;
+    width: 80px;
+}
+
+.circledept img {
+    height: 80px;
+    width: 80px;
+}
+
+.myblue {
+  color: rgba(25,46,89,1);
+}

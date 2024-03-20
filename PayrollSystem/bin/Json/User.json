@@ -1,0 +1,34 @@
+{
+  "LoginData": [
+    {
+      "EmployeeID": "Sol123",
+      "EmpPassword": "securePassword",
+      "isAdmin": 1
+    },
+    {
+      "EmployeeID": "Mic789",
+      "EmpPassword": "strongPassword",
+      "isAdmin": 0
+    },
+    {
+      "EmployeeID": "Goo456",
+      "EmpPassword": "adminPass",
+      "isAdmin": 1
+    },
+    {
+      "EmployeeID": "Sol124",
+      "EmpPassword": "pass123",
+      "isAdmin": 0
+    },
+    {
+      "EmployeeID": "Mic790",
+      "EmpPassword": "secretPassword",
+      "isAdmin": 0
+    },
+    {
+      "EmployeeID": "Goo457",
+      "EmpPassword": "123456",
+      "isAdmin": 0
+    }
+  ]
+}

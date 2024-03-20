@@ -1,0 +1,27 @@
+.fulldiv {
+    text-align: center;
+}
+.headerdiv {
+    margin-bottom: 20px;
+}
+.btns button {
+    margin: 0 10px;
+    padding: 10px 20px;
+    cursor: pointer;
+    position: relative;
+}
+.btns button div {
+    display: none;
+    position: absolute;
+    top: 100%;
+    left: 0;
+    width: 200px;
+    background-color: #f9f9f9;
+    border: 1px solid #ccc;
+    padding: 10px;
+    border-radius: 5px;
+    z-index: 1;
+}
+.btns button:hover div {
+    display: block;
+}
